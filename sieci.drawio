@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T00:58:00.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ITKP3Zf3RaoxckbXmqCY" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T18:07:05.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jCCau3t_GjRsvaMReBIU" version="24.4.6" type="github">
   <diagram name="Strona-1" id="v6Axa3R0iDyyJzmrWVXv">
-    <mxGraphModel dx="6380" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3990" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nR0ov-suRXUIzoShIlQR-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="nR0ov-suRXUIzoShIlQR-102" target="nR0ov-suRXUIzoShIlQR-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-106" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Minecarft domyślny&amp;nbsp;&lt;br&gt;port 25565&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-105" vertex="1" connectable="0">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-106" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Minecraft domyślny&amp;nbsp;&lt;br&gt;port 25565&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-105" vertex="1" connectable="0">
           <mxGeometry x="0.0293" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -53,12 +53,12 @@
           <mxGeometry x="-1520" y="690" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-10" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.unsecure;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="720" width="80" height="100" as="geometry" />
+          <mxGeometry x="-480" y="710" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-13" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;VPS Debian11 (149.100.156.150)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=130;strokeWidth=16;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-13" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;VPS Debian11 (149.100.156.150)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=130;strokeWidth=16;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="180" y="20" width="1375" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;OS User&amp;nbsp;&lt;span style=&quot;color: rgb(32, 33, 36); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;PostGreSQL&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="nR0ov-suRXUIzoShIlQR-13" vertex="1">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;OS User&amp;nbsp;&lt;span style=&quot;color: rgb(32, 33, 36); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;PostGreSQL&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;strokeWidth=3;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="nR0ov-suRXUIzoShIlQR-13" vertex="1">
           <mxGeometry x="1190" y="180" width="130" height="170" as="geometry" />
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-16" value="&lt;font color=&quot;#3399ff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;PostGreSQL&lt;br&gt;&lt;/span&gt;port&amp;nbsp;&lt;span style=&quot;text-align: left; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;5432&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" parent="nR0ov-suRXUIzoShIlQR-17" vertex="1">
@@ -79,7 +79,7 @@
           <mxGeometry x="47.799999999999955" y="42.5" width="34.4" height="65" as="geometry" />
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-14" value="" style="group" parent="nR0ov-suRXUIzoShIlQR-13" vertex="1" connectable="0">
-          <mxGeometry x="110" y="20" width="110" height="90" as="geometry" />
+          <mxGeometry x="140" y="20" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="nR0ov-suRXUIzoShIlQR-14" vertex="1">
           <mxGeometry width="96.25" height="90" as="geometry" />
@@ -119,6 +119,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="520" as="targetPoint" />
             <mxPoint x="540" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="485" />
+              <mxPoint x="780" y="615" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-40" value="&lt;b&gt;packets routing&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-39" vertex="1" connectable="0">
@@ -132,7 +136,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="nR0ov-suRXUIzoShIlQR-13" source="nR0ov-suRXUIzoShIlQR-30" target="nR0ov-suRXUIzoShIlQR-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="485" />
+              <mxPoint x="780" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-43" value="&lt;b&gt;packets routing&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-41" vertex="1" connectable="0">
           <mxGeometry x="-0.6116" relative="1" as="geometry">
@@ -144,11 +153,11 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=7;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="nR0ov-suRXUIzoShIlQR-13" source="nR0ov-suRXUIzoShIlQR-30" edge="1">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=7;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="nR0ov-suRXUIzoShIlQR-13" source="nR0ov-suRXUIzoShIlQR-30" edge="1" target="nR0ov-suRXUIzoShIlQR-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1029" y="785" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="510" />
+              <mxPoint x="780" y="485" />
               <mxPoint x="780" y="785" />
             </Array>
           </mxGeometry>
@@ -164,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-30" value="OS User velocity" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;strokeWidth=3;" parent="nR0ov-suRXUIzoShIlQR-13" vertex="1">
-          <mxGeometry x="320" y="350" width="180" height="270" as="geometry">
+          <mxGeometry x="330" y="350" width="180" height="270" as="geometry">
             <mxRectangle x="30" y="380" width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -215,7 +224,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-63" value="iptables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneFillColor=default;strokeColor=#FF0000;strokeWidth=6;" parent="nR0ov-suRXUIzoShIlQR-13" vertex="1">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-63" value="iptables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneFillColor=default;strokeColor=#B20000;strokeWidth=6;fillColor=#e51400;fontColor=#ffffff;" parent="nR0ov-suRXUIzoShIlQR-13" vertex="1">
           <mxGeometry x="45" y="200" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-64" value="DROP tcp port:25565 source:anywhere" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="nR0ov-suRXUIzoShIlQR-63" vertex="1">
@@ -235,9 +244,6 @@
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-81" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="nR0ov-suRXUIzoShIlQR-63" vertex="1">
           <mxGeometry y="200" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nR0ov-suRXUIzoShIlQR-13" source="nR0ov-suRXUIzoShIlQR-29" target="nR0ov-suRXUIzoShIlQR-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-118" value="OS User www" style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;strokeWidth=2;" parent="nR0ov-suRXUIzoShIlQR-13" vertex="1">
           <mxGeometry x="65" y="520" width="200" height="200" as="geometry" />
@@ -260,7 +266,7 @@
         <mxCell id="nR0ov-suRXUIzoShIlQR-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" parent="1" source="nR0ov-suRXUIzoShIlQR-83" target="nR0ov-suRXUIzoShIlQR-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-98" value="&lt;b&gt;server change request&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-97" vertex="1" connectable="0">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-98" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;server change request&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-97" vertex="1" connectable="0">
           <mxGeometry x="-0.0544" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -284,14 +290,13 @@
             <mxPoint x="370" y="1080" as="targetPoint" />
             <mxPoint x="720" y="540" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="710" y="540" />
-              <mxPoint x="970" y="540" />
-              <mxPoint x="970" y="1080" />
+              <mxPoint x="960" y="505" />
+              <mxPoint x="960" y="1080" />
               <mxPoint x="400" y="1080" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-87" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;packets routing&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-86" vertex="1" connectable="0">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-87" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;packets routing&lt;br&gt;Port 42334&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-86" vertex="1" connectable="0">
           <mxGeometry x="0.079" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -304,7 +309,7 @@
         <mxCell id="nR0ov-suRXUIzoShIlQR-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=17;fontStyle=1;horizontal=1;strokeWidth=6;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="nR0ov-suRXUIzoShIlQR-89" target="nR0ov-suRXUIzoShIlQR-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-93" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;packets routing&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-91" vertex="1" connectable="0">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-93" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;packets routing&lt;br&gt;Port 42334&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-91" vertex="1" connectable="0">
           <mxGeometry x="0.3488" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -327,12 +332,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-95" value="&lt;b&gt;Autentykacja graczy&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-94" vertex="1" connectable="0">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-95" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Autentykacja graczy&lt;br&gt;Port 5432&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nR0ov-suRXUIzoShIlQR-94" vertex="1" connectable="0">
           <mxGeometry x="-0.3325" y="-3" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nR0ov-suRXUIzoShIlQR-104" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="nR0ov-suRXUIzoShIlQR-104" value="" style="group;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-430" y="350" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="nR0ov-suRXUIzoShIlQR-99" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;TCPshield.com&lt;br&gt;protection&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;strokeWidth=5;" parent="nR0ov-suRXUIzoShIlQR-104" vertex="1">
@@ -384,6 +389,9 @@
           <mxGeometry x="0.0369" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dfRsSpCu3R2rsRGk60Tw-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.unsecure;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1200" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
